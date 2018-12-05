@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="ja">
 	<head>
 		<meta charaset="UTF-8">
@@ -11,6 +11,9 @@
 		</div>
 		
 		</br>
+
+ddddddddddddddddd
+
 		
 		<?php
 			header('Content-Type: text/html; charset=UTF-8');
